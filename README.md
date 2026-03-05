@@ -1,5 +1,9 @@
 # TrojanDB - Remote Access Trojan (RAT) Intelligence Repository
 
+<p align="center">
+  <img src="https://github.com/trojandb/entiredatabase/blob/master/logo/trojandbAdesignenlogo.png" alt="TrojanDB Banner" width="200"/>
+</p>
+
 ## About TrojanDB
 TrojanDB is a comprehensive Cyber Threat Intelligence (CTI) platform dedicated to cataloging, analyzing, and mapping Remote Access Trojans (RATs) across multiple operating systems, including Windows and Android. Our main platform provides security researchers and SOC analysts with detailed threat profiles, builder hashes, MITRE ATT&CK mappings, and network behavioral fingerprints.
 
