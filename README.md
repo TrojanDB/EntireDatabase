@@ -1,6 +1,6 @@
 <div align="center">
   <h1>TrojanDB</h1>
-  <h3>OFFICIAL GITHUB REPOSITORY</h3>
+  <h3>OFFICIAL GITHUB PAGE</h3>
 </div>
 
 ## About TrojanDB
