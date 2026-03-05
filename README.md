@@ -39,3 +39,7 @@ TrojanDB relies on community research to stay updated. If you have discovered a 
 This repository and its contents are provided strictly for educational, defensive, and cybersecurity research purposes. TrojanDB and its maintainers do not support, encourage, or condone the use of malware for malicious or illegal activities. 
 
 By downloading any files or using the detection rules provided in this repository, you assume full responsibility for your actions. The maintainers shall not be held liable for any direct or indirect damage caused by the misuse of these materials. Use this data at your own risk.
+
+<p align="center">
+  <img src="https://github.com/TrojanDB/entiredatabase/blob/main/logo/trojandbAdesignenlogo.png" alt="TrojanDB Banner" width="100%" height="350"/>
+</p>
