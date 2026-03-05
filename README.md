@@ -16,9 +16,10 @@ Here, you will find detection rules and encrypted malware stubs corresponding to
 ## Repository Structure
 The repository is organized by malware family/name. Each RAT directory follows a standardized structure to ensure easy integration into your defense systems:
 
-    /Malware-Name/
+    /data/Trojan-Name/
         ├── yara_rules.yar          # Static detection rules for stubs
         └── stub.zip                # Encrypted archives containing the malware stub/payload
+        └── traficc.pcap            # Coming soon
 
 ## Malware Handling and Sample Access
 **WARNING: This repository contains live malware samples (stubs/payloads).**
