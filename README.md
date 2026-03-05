@@ -1,7 +1,7 @@
 # TrojanDB - Remote Access Trojan (RAT) Intelligence Repository
 
 <p align="center">
-  <img src="https://github.com/trojandb/entiredatabase/blob/master/logo/trojandbAdesignenlogo.png" alt="TrojanDB Banner" width="200"/>
+  <img src="https://github.com/TrojanDB/entiredatabase/blob/main/logo/trojandbAdesignenlogo.png" alt="TrojanDB Banner" width="200"/>
 </p>
 
 ## About TrojanDB
