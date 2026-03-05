@@ -18,8 +18,8 @@ The repository is organized by malware family/name. Each RAT directory follows a
 
     /data/Trojan-Name/
         ├── yara_rules.yar          # Static detection rules for stubs
+        ├── traffic.pcap            # Coming soon...
         └── stub.zip                # Encrypted archives containing the malware stub/payload
-        └── traficc.pcap            # Coming soon
 
 ## Malware Handling and Sample Access
 **WARNING: This repository contains live malware samples (stubs/payloads).**
