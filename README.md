@@ -14,7 +14,7 @@ Here, you will find detection rules and encrypted malware stubs corresponding to
 The repository is organized by malware family/name. Each RAT directory follows a standardized structure to ensure easy integration into your defense systems:
 
     /Malware-Name/
-        ├── yara_rules.yar          # Static detection rules for builders and stubs
+        ├── yara_rules.yar          # Static detection rules for stubs
         └── stub.zip                # Encrypted archives containing the malware stub/payload
 
 ## Malware Handling and Sample Access
@@ -29,7 +29,7 @@ Do not execute these files on a host machine. All analysis should be conducted w
 ## Submitting New Threats
 TrojanDB relies on community research to stay updated. If you have discovered a new RAT, a new builder version, or want to contribute better detection rules, please submit them through our official reporting channel.
 
-* **Submit a sample:** [Insert Link to Your Report Page]
+* **Submit a sample:** [https://trojandb.org/report]
 * Please ensure all live malware submissions are sent in a password-protected archive using the password `trojandb`.
 
 ## Legal Disclaimer
