@@ -1,5 +1,3 @@
-# TrojanDB - Remote Access Trojan (RAT) Intelligence Repository
-
 <div align="center">
   <h1>TrojanDB</h1>
   <h3>REMOTE ACCESS TROJAN DATABASE</h3>
