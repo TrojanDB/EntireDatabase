@@ -26,7 +26,7 @@ The repository is organized by malware family/name. Each RAT directory follows a
 
 To prevent accidental execution, antivirus flagging, and to comply with hosting policies, all executable files (.exe, .apk, .bin) are stored within password-protected ZIP archives.
 
-* **Archive Password:** `trojandb`
+* **Archive Password:** `infected` or `trojandb`
 
 Do not execute these files on a host machine. All analysis should be conducted within a secure, isolated sandbox or dedicated reverse engineering environment.
 
