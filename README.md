@@ -34,7 +34,7 @@ Do not execute these files on a host machine. All analysis should be conducted w
 TrojanDB relies on community research to stay updated. If you have discovered a new RAT, a new builder version, or want to contribute better detection rules, please submit them through our official reporting channel.
 
 * **Submit a sample:** [https://trojandb.org/report]
-* Please ensure all live malware submissions are sent in a password-protected archive using the password `trojandb`.
+* Please ensure all live malware submissions are sent in a password-protected archive using the password `infected`.
 
 ## Legal Disclaimer
 This repository and its contents are provided strictly for educational, defensive, and cybersecurity research purposes. TrojanDB and its maintainers do not support, encourage, or condone the use of malware for malicious or illegal activities. 
